@@ -4,3 +4,7 @@
   "framework": "vite",
   "installCommand": "npm install"
 }
+git add vercel.json
+git commit -m "Fix Vercel deployment with Convex backend"
+git push
+
